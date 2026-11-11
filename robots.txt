@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://washear.github.io/sitemap.xml
